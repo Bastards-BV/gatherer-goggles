@@ -4,5 +4,8 @@
     "eslint.packageManager": "yarn",
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+    },
+    "cSpell.words": [
+        "antd"
+    ]
 }
